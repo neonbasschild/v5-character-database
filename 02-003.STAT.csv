@@ -4,13 +4,13 @@ ID,NAME,DESCRIPTION,GROUPING,ORDERING,COST_MODEL_ID,SPECIALISATION_AT
 3,Stamina,How much punishment your character can take,Physical,3,2,4
 4,Charisma,The strength of personality of your character,Social,4,2,4
 5,Manipulation,How good your character is at manipulating others,Social,5,2,4
-6,Appearance,How good looking your character is,Social,6,2,4
-7,Perception,How much your character notices,Mental,7,2,4
-8,Intelligence,How smart your character is,Mental,8,2,4
-9,Wits,How quick thinking your character is,Mental,9,2,4
-10,Conscience,How caring you are,Virtue,10,3,0
-11,Conviction,The strength of your convictions,Virtue,10,3,0
-12,Self Control,How well you keep yourself in check,Virtue,11,3,0
-13,Instinct,How well you ride the beast,Virtue,11,3,0
-14,Courage,How brave you are,Virtue,12,3,0
+6,Composure,"How well you remain calm, to command your emotions",Social,6,2,4
+7,Intelligence,How smart your character is,Mental,7,2,4
+8,Wits,How quick thinking your character is,Mental,8,2,4
+9,Resolve,How focus and determination you are,Mental,9,2,4
+10,-,How caring you are,Virtue,10,3,0
+11,-,The strength of your convictions,Virtue,10,3,0
+12,-,How well you keep yourself in check,Virtue,11,3,0
+13,-,How well you ride the beast,Virtue,11,3,0
+14,-,How brave you are,Virtue,12,3,0
 15,Willpower,How strong your force of will is,Willpower,13,4,0
